@@ -11,8 +11,8 @@ from jd_parser import extract_pdf_text, extract_docx_text
 # CONFIG
 # ============================================================
 
-SERVER_ID = 1552561245880582225
-BOT_TOKEN = "MTU1MjU3MTUyOTIxMDg5NjQzNA.GB8v25.r5sSOnuRnrqYOv-8GnOTCG93RDbxRB3xM795hY"
+SERVER_ID = YOUR_SERVER_ID
+BOT_TOKEN = "YOUR_BOT_TOKEN"
 
 
 # ============================================================
